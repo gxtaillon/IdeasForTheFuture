@@ -1,1 +1,22 @@
 # TheLaw
+Let the Law be,
+
+Assenting Citizens are free to do what they want with each other and Dissenting Citizens can press Criminal Charges against Denizens who allegedly wronged them.
+
+1. Where a citizen is a Person that passed the citizenship test.
+1. Where assent is to agree with a statement or an action made by an equal.
+1. Where dissent is to disagree with an action.
+1. Where a denizen is a citizen or a Person eligible to the citizenship test.
+1. Where a person is an independent self-conscious entity.
+1. Where a criminal charge is formal accusation asserting that a Denizen Infringed the Law which must be proven beyond any reasonable doubts.
+1. Where an infraction of the Law is a Punishable action committed by a Denizen.
+1. Where a punishment follows the following rules,
+ 1. it can not threaten the life of the target Denizen,
+ 1. it can remove the target Denizen from the environment in which the action was committed while it is reasonably foreseeable that the target Denizen will recommit the infraction of which it is guilty,
+ 1. it can force the target Denizen to indemnify the source Citizen with an action of equal or lower value that is not Infringing the Law.
+1. Where the citizenship test is a collection of a minimum of 90 questions, each answerable in at most 2 minutes, on matters of the Law, the Society and the Sciences.
+1. Where a science is a systematic enterprise that builds and organize knowledge in the form of testable explanations and predictions about the universe.
+1. Where the society is the first Community, the sum of its all its Citizens, Children and Institutions.
+1. Where a child is an entity dependent of a Citizen.
+1. Where an institution is a body of citizens of a given Community tasked, by at least two thirds of the members of that Community, to collect resources from the Community to provide services and the enforce the Law.
+1. Where a community is a territory inhabited by Citizens.
