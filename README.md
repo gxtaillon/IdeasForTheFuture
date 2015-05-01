@@ -20,6 +20,8 @@ Let the Law be,
 1. Where a child is an entity dependent of a Citizen.
 1. Where an institution is a body of Electors tasked to collect resources from the Community in order to provide services, to enforce the Law and that obeys the following rules,
  1. it can only act within the realm defined by its charter and the Law
- 1. it can be created, modified and dismantled by a two thirds marjority of Electors.
+ 1. it can be created, modified and dismantled by a two thirds marjority of Electors,
+ 1. it can delegate its responsabilities to other Communities and Institutions,
+ 1. it can not share responsabilities with other Communities or Institutions.
 1. Where a community is an inhabited territory and its Citizens.
 1. Where an elector is a Citizen living within a given Community.
