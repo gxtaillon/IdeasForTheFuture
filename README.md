@@ -1,11 +1,11 @@
-# TheLaw
+# The Law
 Let the Law be,
 
-Assenting Citizens are free to do what they want with each other and Dissenting Citizens can press Criminal Charges against Denizens who allegedly wronged them.
+**Assenting Citizens are free to do what they want with each other and Dissenting Citizens can press Criminal Charges against Denizens who allegedly wronged them.**
 
 1. Where a citizen is a Person that passed the citizenship test.
 1. Where assent is to agree with a statement or an action made by an equal.
-1. Where dissent is to disagree with an action.
+1. Where dissent is to disagree with an action where physical contact is unvoidable.
 1. Where a denizen is a citizen or a Person eligible to the citizenship test.
 1. Where a person is an independent self-conscious entity.
 1. Where a criminal charge is formal accusation asserting that a Denizen Infringed the Law which must be proven beyond any reasonable doubts.
