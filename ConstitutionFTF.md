@@ -1,4 +1,4 @@
-# The Law
+# Constitution For The Future
 Let the Law be,
 
 **Assenting Citizens are free to do what they want with each other and Dissenting Citizens can press Criminal Charges against Denizens who allegedly wronged them.**
