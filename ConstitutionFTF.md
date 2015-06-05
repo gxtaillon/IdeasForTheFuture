@@ -28,8 +28,8 @@
 1. Where an elector is a Citizen living within a given Community.
 2. Where an election obeys the following rules
  1. it can not be lost or expire,
- 2. its votes are valid only if they obey the following rules,
-  1. the amount of time between the time it was cast and now is lesser than the half-life of the election,
-  2. its Elector has no other valid vote for the election,
  3. it con only be won once by a 75% majority of valid votes cast by 75% of all Electors.
+1. Where valid votes toward an Election obeys the following rules,
+  1. the elapsed time between its casting and now is lesser than the half-life of that election,
+  2. its Elector has no other valid vote for that election,
 
