@@ -16,7 +16,7 @@
  1. it can force the target Denizen to indemnify the source Citizen with an action of equal or lower value that is not Infringing the Law.
 1. Where the citizenship test is a collection of a minimum of 90 questions each unique to its test-taker, objective and answerable in at least 2 and at most 4 minutes by 95% of the test-taker population on matters of the Law, the Society, the Sciences and is graded with the following rule,
  2. it can only be passed if no more than 9 wrong answers are given.
-1. Where a science is a systematic enterprise that builds and organize knowledge in the form of testable explanations of the universe which must be able to predict its behaviors within a 95% confidence interval.
+1. Where a science is a systematic enterprise that builds and organize knowledge in the form of testable explanations of the universe which must be able to predict its behaviors.
 1. Where the society is the first Community, the sum of all its Communities, Citizens, Children and Institutions.
 1. Where a child is a living entity dependent of a Citizen.
 1. Where an institution is a body of Electors tasked to collect resources from their Community in order to provide services, to enforce the Law and that obeys the following rules,
