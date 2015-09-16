@@ -21,15 +21,15 @@
 1. Where a child is an entity dependent of a Citizen.
 1. Where an institution is a body of Electors tasked to collect resources from their Community in order to provide services, to enforce the Law and that obeys the following rules,
  1. it can only act within the realm defined by its charter and the Law
- 1. it can be created, modified and dismantled by an Election,
+ 1. it can be created, modified and dismantled by an Initiative,
  1. it can delegate its responsabilities to other Communities and Institutions,
  1. it can not share responsabilities with other Communities or Institutions.
 1. Where a community is an inhabited territory and its Citizens.
 1. Where an elector is a Citizen living within a given Community.
-2. Where an election obeys the following rules
+2. Where an initiative obeys the following rules
  1. it can not be lost or expire,
  3. it is won by a minimum of 75% of valid votes cast by a minimum of 75% of all Electors within a 95% confidence interval.
-1. Where valid votes toward an Election obeys the following rules,
-  1. the elapsed time between its casting and now is lesser than the half-life of that election,
-  2. its Elector has no other valid vote for that election,
+ 4. its votes obeys the following rules,
+  1. the elapsed time between the casting of a vote and now is lesser than the half-life of the initiative,
+  2. its Elector has no other valid vote for that initiative,
 
