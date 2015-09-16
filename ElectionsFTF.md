@@ -24,3 +24,9 @@ Winners are chosen as follows:
  * Candidate score percentage is the candidate score divided by its circonscription's score
  * In other words, the candidates with the highest percentages scores in their circonscription are chosen to occupy their party's seats
 * The government is the party with the most representatives
+ * Seats belong to parties and seats are given by scores, therefore if scores change after an election, seats must be recalculated and representatives repicked after a partial election using the latest scores of each circonscription
+    * A score change can be
+       * A representative leaving its role (quits politics,dies,jailed,etc.)
+       * A representative leaving its party
+    * A partial election is an election limited to a single circonscription which no longer has a sitting representative
+    * The latest scores are the scores from the previous election (partial or general)
