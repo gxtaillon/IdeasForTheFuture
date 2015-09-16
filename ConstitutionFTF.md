@@ -18,7 +18,7 @@
  2. it can only be passed if no more than 9 wrong answers are given.
 1. Where a science is a systematic enterprise that builds and organize knowledge in the form of testable explanations of the universe which must be able to predict its behaviors.
 1. Where the society is the first Community, the sum of all its Communities, Citizens, Children and Institutions.
-1. Where a child is a living entity dependent of a Citizen.
+1. Where a child is an entity dependent of a Citizen.
 1. Where an institution is a body of Electors tasked to collect resources from their Community in order to provide services, to enforce the Law and that obeys the following rules,
  1. it can only act within the realm defined by its charter and the Law
  1. it can be created, modified and dismantled by an Election,
