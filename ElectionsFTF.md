@@ -16,7 +16,7 @@ Winners are chosen as follows:
 * Electors rate each candidate in their circonscription from 1 (best) to n (worst)
  * n is the total number of candidates in the circonscription
 * The score of a candidate is the sum of the multiplicative inverse of each of its ratings.
- * (1/r<sub>1</sub>+1/r<sub>2</sub>+...+1/r<sub>n</sub>)
+ * (1/r<sub>1</sub>+1/r<sub>2</sub>+...+1/r<sub>k</sub>)
 * The score of a party is the sum of all its candidate's scores
 * The score of the election is the sum of all candidate scores
 * Parties receive seats by their score divided by the election score floored
