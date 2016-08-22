@@ -1,18 +1,31 @@
-General Elections
+Continuous General Elections
 ==
-
-Goal
- * Provide representative general elections with local representatives
 
 draft.
 
-Have the land split in 101 electoral circonscriptions. (100 representatives, 1 assembly president)
+Goals
 
-todo: prevent jerrymandering (by limiting geometricaly the shape of circonscriptions?)
+ - Provide representative general elections
+ - Provide finer grained control of government policies and officials
 
-Candidates and representatives may be a member of a party.
+Side effects
 
-Winners are chosen as follows:
+ - Assign each circonscription their own MP
+ - Remove jerrymandering concerns
+  - No point in jerrymandering with representative general elections where votes are counted in the same common pool
+
+Assert
+
+- Have the land split in 101 electoral circonscriptions.
+ - 100 Members of parliament
+ - 1 assembly president
+- Candidates and representatives may be a member of a party.
+- Polls are held each week
+- Electors vote during the week of their birth day only
+- Ballot "unboxing" is recorded on video or on any media that allows the process to be audited in full by any citizen
+
+Winners are chosen as follows
+
 * Electors rate each candidate in their circonscription from 1 (best) to n (worst)
  * n is the total number of candidates in the circonscription
 * The score of a candidate is the sum of the multiplicative inverse of each of its ratings.
@@ -30,3 +43,4 @@ Winners are chosen as follows:
        * A representative leaving its party
     * A partial election is an election limited to a single circonscription which no longer has a sitting representative
     * The latest scores are the scores from the previous election (partial or general)
+
